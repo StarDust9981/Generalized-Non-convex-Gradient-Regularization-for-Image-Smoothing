@@ -1,6 +1,6 @@
 **Generalized Non-convex Gradient Regularization for Image Smoothing**
 
-**Lanling Zeng，Wenzheng Dong，Yang Yang*，Yongzhao Zhan**
+Lanling Zeng，Wenzheng Dong，Yang Yang*，Yongzhao Zhan
 
 Jiangsu University, the Department of Computer Science, Xuefu Road, Zhenjiang, China
 
